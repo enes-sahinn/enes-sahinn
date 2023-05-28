@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes-sahinn&label=Profile%20views&color=0e75b6&style=flat" alt="enes-sahinn" /> </p>
 
-- 🌱 I’m currently interested in **mobile and backend development.**
+- 🌱 I’m currently interested in **mobile development.**
 
 - 📫 How to reach me **enessah200@gmail.com**
 
