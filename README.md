@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Enes Sahin</h1>
-<h3 align="center">Imaginer at Microsoft || 4th year Computer Engineer at Dokuz Eylul University</h3>
+<h3 align="center">Android Developer at Getir</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes-sahinn&label=Profile%20views&color=0e75b6&style=flat" alt="enes-sahinn" /> </p>
 
-- 🌱 I’m currently interested in **mobile development.**
+- 🌱 I’m currently interested in **android development.**
 
 - 📫 How to reach me **enessah200@gmail.com**
 
